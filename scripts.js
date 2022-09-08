@@ -15,5 +15,5 @@ convertBtn.addEventListener('click', () => {
       return true; 
     } 
 function sendURL(URL){
-window.location.href = `https://www.invincible-amplified-physician.glitch.me/download?URL=${URL}`;
+window.location.href = `http://www.invincible-amplified-physician.glitch.me/download?URL=${URL}`;
 }

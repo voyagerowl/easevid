@@ -1,3 +1,10 @@
+
 # EaseVid
-A javascript web app which enables users to download any youtube video for free and without ads, and of course it is open-source. 
-After contributing you could have your github or twitter profile on the website....
+
+A Javascript based web app that will allow anyone to download youtube videos for free and without any ads. It's up :- https://easevid.netlify.app/
+
+
+## Acknowledgements
+
+ - [README from readme.so ](https://readme.so)
+
